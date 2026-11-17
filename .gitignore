@@ -1,0 +1,22 @@
+# Cau hinh cuc bo cua Claude Code
+.claude/
+
+# File lab rat nang (ISO, may ao)
+Lab/
+*.iso
+*.vmdk
+*.ova
+*.qcow2
+
+# Bi mat, khong bao gio dua len Git
+.env
+*.key
+*.csr
+*.srl
+htpasswd
+auth/
+certs/
+
+# File he thong
+Thumbs.db
+desktop.ini
